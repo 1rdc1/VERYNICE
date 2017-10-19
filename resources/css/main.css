@@ -1,0 +1,28 @@
+nav {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+a {
+  color: grey;
+}
+
+.h1 {
+  font-family: Futura;
+  text-align: center;
+}
+
+.h3 {
+  font-family: Futura;
+  text-align: center;
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 16px;
+  font-weight: lighter;
+}
+
+.manifesto {
+  text-align: center;
+}
